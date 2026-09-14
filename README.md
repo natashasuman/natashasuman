@@ -10,11 +10,11 @@ My work focuses on moving beyond simple LLM applications toward **reliable, eval
 
 ## What I Build
 
-* **Agentic AI Systems** — autonomous multi-agent workflows for financial analysis, risk assessment, optimization, and compliance
-* **Production RAG Systems** — low-latency retrieval pipelines with vector search, metadata filtering, reranking, and citation-grounded generation
-* **Domain-Specific LLMs** — PEFT/QLoRA fine-tuning for financial reasoning, credit-risk analysis, and earnings sentiment
-* **LLM Evaluation** — automated evaluation pipelines using LLM-as-a-Judge methodologies
-* **AI Engineering** — production APIs, containerization, testing, observability, and scalable inference architectures
+* **Agentic AI Systems** - autonomous multi-agent workflows for financial analysis, risk assessment, optimization, and compliance
+* **Production RAG Systems** - low-latency retrieval pipelines with vector search, metadata filtering, reranking, and citation-grounded generation
+* **Domain-Specific LLMs** - PEFT/QLoRA fine-tuning for financial reasoning, credit-risk analysis, and earnings sentiment
+* **LLM Evaluation** - automated evaluation pipelines using LLM-as-a-Judge methodologies
+* **AI Engineering** - production APIs, containerization, testing, observability, and scalable inference architectures
 
 ---
 
